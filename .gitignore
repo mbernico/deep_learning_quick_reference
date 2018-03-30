@@ -1,0 +1,11 @@
+.idea/*
+book_visuals/*
+*.idea*
+*.jpg
+*.h5
+*__pycache__*
+*.png
+*tb_log*
+*.ipynb_checkpoints*
+images/
+.DS_Store
